@@ -1,0 +1,11 @@
+{
+ "person":{
+   "name":"Alla Orlova",
+   "age":38,
+   "pets":{
+     "cat":"Murka",
+     "dog":"Vise"
+	 },
+   "future_sallary":"3150 dollars"
+   }
+ }
