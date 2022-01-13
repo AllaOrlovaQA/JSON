@@ -1,0 +1,17 @@
+{
+    "Theory": [
+        "Principes",
+        "Methods",
+        "SDLS",
+        "STLS"
+    ],
+    "Tools": [
+        "GitBash",
+        "GitHub"
+    ],
+    "ProgrLang": [
+        "Python",
+        "JS"
+    ],
+    "DB": "SQL"
+}
